@@ -6,9 +6,7 @@ export function Hero() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 md:px-8">
         <div className="text-center max-w-3xl mx-auto mb-12 sm:mb-14 md:mb-16">
           <h1 className="font-semibold text-gray-900 mb-3 sm:mb-4 leading-tight text-[28px] sm:text-[36px] md:text-[40px] px-2 sm:px-0">           Система управления товаром, складом и маркировкой для маркетплейсов</h1>
-          <p className="text-[17px] sm:text-[19px] md:text-xl text-gray-600 leading-relaxed px-2 sm:px-0">
-            Управляйте товарами на маркетплейсах в одной системе
-          </p>
+          <p className="text-[17px] sm:text-[19px] md:text-xl text-gray-600 leading-relaxed px-2 sm:px-0">Управляйте товарами на маркетплейсах в одной системе.</p>
           
           {/* Features List */}
           <div className="max-w-4xl mx-auto bg-gray-100 rounded-xl p-4 sm:p-6 border border-gray-200 mt-6 sm:mt-8 relative">
