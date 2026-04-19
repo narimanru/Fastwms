@@ -1,4 +1,5 @@
 export function SEOContent() {
+  console.log('SEOContent rendering');
   return (
     <div style={{ position: 'absolute', left: '-9999px', top: '-9999px' }} aria-hidden="true">
       <h1>FASTWMS — система управления складом для селлеров и фулфилментов</h1>

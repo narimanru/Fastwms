@@ -1,32 +1,10 @@
 <svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background with gradient -->
-  <rect width="128" height="128" rx="24" fill="url(#gradient)"/>
+  <!-- Black background -->
+  <rect width="128" height="128" fill="#000000"/>
   
-  <!-- Warehouse/Box icon with modern style -->
-  <g transform="translate(24, 28)">
-    <!-- Top box -->
-    <path d="M40 8 L20 0 L0 8 L0 16 L20 24 L40 16 Z" fill="#22d3ee" opacity="0.8"/>
-    <path d="M0 16 L0 32 L20 40 L20 24 Z" fill="#06b6d4"/>
-    <path d="M40 16 L40 32 L20 40 L20 24 Z" fill="#0891b2"/>
-    
-    <!-- Bottom box -->
-    <path d="M40 36 L20 28 L0 36 L0 44 L20 52 L40 44 Z" fill="#22d3ee" opacity="0.6"/>
-    <path d="M0 44 L0 60 L20 68 L20 52 Z" fill="#06b6d4" opacity="0.9"/>
-    <path d="M40 44 L40 60 L20 68 L20 52 Z" fill="#0891b2" opacity="0.9"/>
-    
-    <!-- Fast indicator - Lightning bolt -->
-    <path d="M60 20 L52 32 L58 32 L50 48 L58 36 L52 36 L60 20" fill="#fbbf24" stroke="#f59e0b" stroke-width="1"/>
-  </g>
+  <!-- Letter F -->
+  <path d="M35 40 L35 88 L42 88 L42 67 L58 67 L58 60 L42 60 L42 47 L60 47 L60 40 Z" fill="#FFFFFF"/>
   
-  <!-- Letter 'F' badge in corner -->
-  <circle cx="100" cy="28" r="16" fill="#8b5cf6"/>
-  <text x="100" y="36" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white" text-anchor="middle">F</text>
-  
-  <!-- Gradient definition -->
-  <defs>
-    <linearGradient id="gradient" x1="0" y1="0" x2="128" y2="128" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#0f172a"/>
-      <stop offset="100%" stop-color="#1e293b"/>
-    </linearGradient>
-  </defs>
+  <!-- Letter W -->
+  <path d="M65 40 L65 88 L72 88 L72 55 L80 75 L86 75 L94 55 L94 88 L101 88 L101 40 L92 40 L83 65 L74 40 Z" fill="#FFFFFF"/>
 </svg>
